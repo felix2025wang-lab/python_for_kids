@@ -1,4 +1,4 @@
-score = float(input("Bitte geben Sie Ihre Punkte ein: "))
+score = float(input("Bitte geben Sie Ihre Punkte ein!: "))
 if score >= 90:
     print("A")
 if 60 <= score <= 89:
