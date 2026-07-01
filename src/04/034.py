@@ -1,0 +1,10 @@
+name = []
+name.append("Julian")
+name.append("Samuel")
+print(name)
+name.extend("felix","arne","kimo")
+print(name)
+name.insert(2,"consti")
+print(name)
+name[0] = ("matilda")
+print(name)
